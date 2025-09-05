@@ -1,0 +1,22 @@
+# .NET build artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Node / React
+node_modules/
+build/
+.env
+
+# Logs
+*.log
+
+# Secrets
+appsettings.json
+appsettings.*.json
+
+# OS junk
+.DS_Store
+Thumbs.db
