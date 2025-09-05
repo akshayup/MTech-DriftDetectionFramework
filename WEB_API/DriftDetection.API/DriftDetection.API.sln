@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriftDetection.API", "DriftDetection.API.csproj", "{98645C76-0E52-4F47-9E81-F0D5A004CD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriftDetection.Data", "..\DriftDetection.Data\DriftDetection.Data.csproj", "{4D0B73C3-082F-49D8-AD1F-C1EEA880CE2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98645C76-0E52-4F47-9E81-F0D5A004CD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98645C76-0E52-4F47-9E81-F0D5A004CD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98645C76-0E52-4F47-9E81-F0D5A004CD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98645C76-0E52-4F47-9E81-F0D5A004CD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0B73C3-082F-49D8-AD1F-C1EEA880CE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0B73C3-082F-49D8-AD1F-C1EEA880CE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0B73C3-082F-49D8-AD1F-C1EEA880CE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0B73C3-082F-49D8-AD1F-C1EEA880CE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {037F0910-8416-432A-AD05-536D11A86B07}
+	EndGlobalSection
+EndGlobal
